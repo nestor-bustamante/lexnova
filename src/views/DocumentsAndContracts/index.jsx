@@ -155,13 +155,13 @@ class DocumentsAndContracts extends Component {
                                 stroke={5}
                                 progress={36}
                               />
-                              <span>doc</span>
+                              <span>jpg</span>
                             </div>
                           </div>
                           <div className="col-10">
                             <div className="doc-data">
-                              <div className="doc-name">nombreDeArchivo.doc</div>
-                              <div className="doc-size">124KB</div>
+                              <div className="doc-name">nombreDeLaImagen.jpg</div>
+                              <div className="doc-size">1024KB</div>
                             </div>
                           </div>
                           <div className="col-1">
